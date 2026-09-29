@@ -54,7 +54,7 @@ jobs:
 
     environment:
       name: production
-      url: https://www.webphin.com
+      url: https://www.skillor.in
 
     concurrency:
       group: production-${{ github.repository }}
